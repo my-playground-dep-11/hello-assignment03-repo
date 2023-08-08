@@ -115,7 +115,7 @@ public class Assignment3 {
 
                                                                     
 
-                                                                    System.out.printf("| %-7s | %2$-5s |%3$36s|\n", finalSubject2, finalMarks2, " ");
+                                                                    System.out.printf("| %-7s | %2$-5s |%3$22s|\n", finalSubject2, finalMarks2, " ");
                                                                     
                                                                     
 
